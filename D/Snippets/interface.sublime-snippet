@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+interface ${1:name}
+{
+	void $2( $3 );
+}
+]]></content>
+	<tabTrigger>interface</tabTrigger>
+	<scope>source.d</scope>
+	<description>interface… { … }</description>
+</snippet>

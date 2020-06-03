@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[/**
- * $1
- */
+	<content><![CDATA[
 struct ${1:name}
 {
 	$2

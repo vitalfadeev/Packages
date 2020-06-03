@@ -1,13 +1,8 @@
 <snippet>
-	<content><![CDATA[/**
- * $1
- */
+	<content><![CDATA[
 class ${1:name}
 {
-	this($2)
-	{
-		$0
-	}
+	//$2
 }
 ]]></content>
 	<tabTrigger>class</tabTrigger>

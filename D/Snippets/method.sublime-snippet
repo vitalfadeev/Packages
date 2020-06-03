@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[/**
- * $2
- */
+	<content><![CDATA[
 ${1:void} ${2:method}()
 {
 	${3}

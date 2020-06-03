@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[fatal("$1");]]></content>
+	<content><![CDATA[fatal( "$1" );]]></content>
 	<tabTrigger>fatal</tabTrigger>
 	<scope>source.d</scope>
 	<description>fatal(…)</description>

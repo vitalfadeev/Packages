@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[error("$1");]]></content>
+	<content><![CDATA[error( "$1" );]]></content>
 	<tabTrigger>err</tabTrigger>
 	<scope>source.d</scope>
 	<description>error(…)</description>

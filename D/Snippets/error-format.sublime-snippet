@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[errorf("${1:%s}", $2);]]></content>
+	<content><![CDATA[errorf( "${1:%s}", $2 );]]></content>
 	<tabTrigger>errf</tabTrigger>
 	<scope>source.d</scope>
 	<description>errorf(…)</description>

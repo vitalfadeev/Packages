@@ -1,7 +1,11 @@
 <snippet>
-	<content><![CDATA[version (${1:Posix})
+	<content><![CDATA[version ( ${1:Windows} )
 {
 	$0
+}
+else
+{
+    static assert( false, "Unsupported OS" );
 }]]></content>
 	<tabTrigger>ver</tabTrigger>
 	<scope>source.d</scope>

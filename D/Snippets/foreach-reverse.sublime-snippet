@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[foreach_reverse ($1; $2)
+	<content><![CDATA[foreach_reverse ( $1; $2 )
 {
 	$0
 }]]></content>
